@@ -235,7 +235,6 @@ function footnoteOptions() {
   // ----- RULE ABOVE OPTIONS ----- //
 
   // Rule Above:
-  d.footnoteOptions.ruleOn = true;
   d.footnoteOptions.continuingRuleOn = false;
   // Rule on:
   d.footnoteOptions.ruleOn = true;
